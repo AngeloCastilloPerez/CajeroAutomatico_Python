@@ -1,21 +1,29 @@
-# CajeroAutomatico_Python
+# Cajero Automático con Python
 
-##Es necesario que sepas como crear funciones y otras cosas para poder avanzar y entender este proyecto.Revisar archivos adjuntos:
+## Es necesario que sepas como crear funciones y otras cosas para poder avanzar y entender este proyecto.Revisar archivos adjuntos:
 
-1.Crear una función
-2.Crear Función Dinámica
-3.Funciones con tuplas
-4.Funciones con ARG
-5.Funciones con KWARGS
-6.Juego de palitos(practica funciones)
-7.Crear una clase
-8. Que son los métodos?
-9. Tipos de métodos
+### 1.Crear una función
+
+### 2.Crear Función Dinámica
+
+### 3.Funciones con tuplas
+
+### 4.Funciones con ARG
+
+### 5.Funciones con KWARGS
+
+### 6.Juego de palitos(practica funciones)
+
+### 7.Crear una clase
+
+### 8.Que son los métodos?
+
+### 9.Tipos de métodos
 
 
-##Proyecto Cajero Automático:
+## Proyecto Cajero Automático:
 
-###Este proyecto es sencillo, buscamos crear un registro de un Cliente en nuestro banco, el podría retirar o depositar dinero, dependiendo de su saldo
+### Este proyecto es sencillo, buscamos crear un registro de un Cliente en nuestro banco, el podría retirar o depositar dinero, dependiendo de su saldo
 
 '''Este código define una clase Cliente, que es una subclase de la clase Persona. 
 La clase Cliente tiene cuatro funciones: __init__, __str__, depositar y retirar. 
