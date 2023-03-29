@@ -1,3 +1,6 @@
+# Para practicar las funciones aprendidas, realizaremos una relación entre funciones para crear un juego
+# El juego trata de sacar el palito más largo, el que obtenga el más corto recibe un castigo(10 pushups)
+# Importaremos shuffle porque necesitamos mezclar los palitos, con el fín de que no sepan donde esta el más corto
 from random import shuffle
 
 #lista inicial
@@ -20,7 +23,7 @@ def probar_suerte():
 #comprobar intento
 def chequear_intento(lista,intento):
     if lista[intento-1] == '-':
-        print("A lavar los platos")
+        print("Debes hacer 10 planchas")
     else:
         print("Esta vez te salvaste por poquito")
 
